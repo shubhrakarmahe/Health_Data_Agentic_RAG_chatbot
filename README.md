@@ -61,6 +61,7 @@ streamlit run app.py
 ## 📋 Usage Instructions
 
 1. Open the application in your browser.
+https://health-data-agentic-rag-chatbot.streamlit.app
 2. Enter your **Groq API Key** in the sidebar.
 3. Type a question in the chat input:
 * *"Show a graph of blood pressure abnormality by age group."*
